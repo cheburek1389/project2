@@ -1,0 +1,18 @@
+head {
+    text-align: center;
+    align-content: center;
+}
+body {
+    text-align: center;
+    align-content: center;
+    color: rgb(142, 151, 255);
+    background: url(background.png);
+    font-size: larger;
+}
+a:hover {
+    color: crimson;
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;
+}
